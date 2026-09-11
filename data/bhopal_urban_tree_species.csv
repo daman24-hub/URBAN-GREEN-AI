@@ -1,0 +1,27 @@
+species_id,scientific_name,common_name,hindi_name,canopy_spread_m,canopy_category,mature_height_m,cooling_value,water_requirement,soil_preference,root_type,drought_tolerance,air_pollution_tolerance,growth_rate,crown_density,ideal_urban_context
+SPECIES_01,Azadirachta indica,Neem,नीम,12.0,Large,18.0,Very High,Low,Adaptable,Deep Taproot,Very High,High,Moderate,Dense,Avenue/Roadside
+SPECIES_02,Ficus religiosa,Peepal,पीपल,18.0,Large,25.0,Very High,Low,Adaptable,Spreading Non-invasive,Very High,High,Fast,Dense,Park/Open Ground
+SPECIES_03,Ficus benghalensis,Banyan,बरगद,22.0,Large,22.0,Very High,Low,Adaptable,Spreading Aerial,Very High,High,Moderate,Dense,Park/Open Ground
+SPECIES_04,Syzygium cumini,Jamun,जामुन,10.0,Medium,16.0,High,Medium,Clay Loam,Deep Taproot,Moderate,High,Moderate,Dense,Lake Buffer
+SPECIES_05,Millettia pinnata,Karanj,करंज,9.0,Medium,14.0,High,Low,Black Cotton/Clay,Deep Taproot,High,High,Fast,Dense,High Density Corridor
+SPECIES_06,Cassia fistula,Golden Shower / Amaltas,अमलतास,7.5,Medium,10.0,High,Low,Clay Loam,Deep Taproot,High,Moderate,Fast,Moderate,Residential Street
+SPECIES_07,Delonix regia,Gulmohar,गुलमोहर,14.0,Large,12.0,Very High,Medium,Loam,Spreading Surface,Moderate,Moderate,Fast,Dense,Park/Open Ground
+SPECIES_08,Terminalia arjuna,Arjun,अर्जुन,11.0,Large,20.0,High,High,Alluvial,Deep Taproot,Moderate,High,Moderate,Dense,Lake Buffer
+SPECIES_09,Butea monosperma,Flame of the Forest / Palash,पलाश,6.0,Small,10.0,Moderate,Low,Black Cotton/Clay,Deep Taproot,Very High,Moderate,Slow,Moderate,High Density Corridor
+SPECIES_10,Madhuca longifolia,Mahua,महुआ,13.0,Large,18.0,High,Low,Clay Loam,Deep Taproot,High,Moderate,Slow,Dense,Park/Open Ground
+SPECIES_11,Neolamarckia cadamba,Kadam,कदम्ब,8.5,Medium,15.0,High,High,Alluvial,Spreading Non-invasive,Moderate,Moderate,Fast,Dense,Lake Buffer
+SPECIES_12,Dalbergia sissoo,North Indian Rosewood / Sheesham,शीशम,10.0,Medium,18.0,High,Low,Alluvial,Deep Taproot,High,High,Fast,Moderate,Avenue/Roadside
+SPECIES_13,Albizia lebbeck,Siris,सिरिस,12.5,Large,16.0,Very High,Low,Adaptable,Spreading Non-invasive,Very High,High,Fast,Moderate,Avenue/Roadside
+SPECIES_14,Bauhinia variegata,Kachnar,कचनार,5.5,Small,8.0,Moderate,Low,Black Cotton/Clay,Deep Taproot,High,Moderate,Moderate,Moderate,Residential Street
+SPECIES_15,Bombax ceiba,Red Silk Cotton / Semal,सेमल,11.0,Large,22.0,High,Low,Alluvial,Spreading Buttress,High,Moderate,Fast,Open,Park/Open Ground
+SPECIES_16,Tamarindus indica,Tamarind / Imli,इमली,13.0,Large,19.0,Very High,Low,Black Cotton/Clay,Deep Taproot,High,High,Slow,Dense,Avenue/Roadside
+SPECIES_17,Mangifera indica,Mango / Aam,आम,12.0,Large,15.0,Very High,Medium,Clay Loam,Deep Taproot,Moderate,Moderate,Moderate,Dense,Park/Open Ground
+SPECIES_18,Aegle marmelos,Bael / Bilva,बेल,5.0,Small,9.0,Moderate,Low,Black Cotton/Clay,Deep Taproot,Very High,Moderate,Slow,Moderate,Residential Street
+SPECIES_19,Terminalia bellirica,Baheda,बहेड़ा,12.0,Large,20.0,High,Low,Clay Loam,Deep Taproot,High,Moderate,Moderate,Dense,Park/Open Ground
+SPECIES_20,Plumeria rubra,Champa,चम्पा,4.0,Small,6.0,Moderate,Low,Adaptable,Fibrous,Very High,Moderate,Moderate,Open,High Density Corridor
+SPECIES_21,Polyalthia longifolia,False Ashoka / Asopalav,अशोक,3.0,Small,12.0,Moderate,Medium,Clay Loam,Deep Taproot,Moderate,High,Fast,Dense,High Density Corridor
+SPECIES_22,Peltophorum pterocarpum,Copperpod / Yellow Gulmohar,पीला गुलमोहर,11.5,Large,15.0,Very High,Low,Adaptable,Spreading Non-invasive,High,High,Fast,Dense,Avenue/Roadside
+SPECIES_23,Alstonia scholaris,Scholar Tree / Saptaparni,सप्तपर्णी,8.0,Medium,14.0,High,Medium,Clay Loam,Spreading Non-invasive,Moderate,High,Fast,Dense,Residential Street
+SPECIES_24,Nyctanthes arbor-tristis,Parijat / Harsingar,पारिजात,3.5,Small,5.0,Moderate,Low,Adaptable,Fibrous,High,Moderate,Moderate,Moderate,Residential Street
+SPECIES_25,Lagerstroemia speciosa,Pride of India / Jarul,जारुल,7.0,Medium,10.0,High,Medium,Clay Loam,Fibrous,Moderate,Moderate,Moderate,Dense,Residential Street
+SPECIES_26,Callistemon viminalis,Weeping Bottlebrush,बोतल ब्रश,4.5,Small,7.0,Moderate,Medium,Adaptable,Fibrous,Moderate,Moderate,Moderate,Dense,Residential Street

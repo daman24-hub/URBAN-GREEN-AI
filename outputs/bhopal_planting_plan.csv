@@ -1,0 +1,6 @@
+hvi_rank,cell_id,zone_name,latitude,longitude,current_lst_celsius,new_projected_lst_celsius,predicted_temp_drop_celsius,trees_to_plant,top_species,annual_co2_kg,annual_stormwater_liters
+1,BPL_CELL_0308,MP Nagar Commercial Zone,23.2375,77.4175,48.5,47.46,1.04,12,"Karanj (करंज), North Indian Rosewood / Sheesham (शीशम)",264.0,180258.9
+2,BPL_CELL_0307,MP Nagar Commercial Zone,23.2375,77.4165,47.36,46.84,0.52,6,"Karanj (करंज), North Indian Rosewood / Sheesham (शीशम)",132.0,90129.4
+3,BPL_CELL_0150,MP Nagar Commercial Zone,23.2335,77.4195,47.94,47.16,0.78,9,"Karanj (करंज), North Indian Rosewood / Sheesham (शीशम)",198.0,135193.1
+4,BPL_CELL_0470,MP Nagar Commercial Zone,23.2415,77.4195,47.05,46.53,0.52,6,"Karanj (करंज), North Indian Rosewood / Sheesham (शीशम)",132.0,90129.4
+5,BPL_CELL_0225,MP Nagar Commercial Zone,23.2355,77.4145,46.64,46.12,0.52,6,"Karanj (करंज), North Indian Rosewood / Sheesham (शीशम)",132.0,90129.4

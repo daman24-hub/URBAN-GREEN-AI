@@ -1,0 +1,221 @@
+{
+  "type": "FeatureCollection",
+  "name": "Bhopal_Master_Planting_Plan",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "BPL_CELL_0308",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.41705,
+              23.23705
+            ],
+            [
+              77.41795,
+              23.23705
+            ],
+            [
+              77.41795,
+              23.23795
+            ],
+            [
+              77.41705,
+              23.23795
+            ],
+            [
+              77.41705,
+              23.23705
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "cell_id": "BPL_CELL_0308",
+        "hvi_rank": 1,
+        "zone_name": "MP Nagar Commercial Zone",
+        "current_lst": 48.5,
+        "projected_lst": 47.46,
+        "temp_drop": 1.04,
+        "recommended_trees": 12,
+        "top_species": "Karanj (\u0915\u0930\u0902\u091c), North Indian Rosewood / Sheesham (\u0936\u0940\u0936\u092e)",
+        "annual_co2_kg": 264.0,
+        "annual_stormwater_liters": 180258.9
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "BPL_CELL_0307",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.41605,
+              23.23705
+            ],
+            [
+              77.41695,
+              23.23705
+            ],
+            [
+              77.41695,
+              23.23795
+            ],
+            [
+              77.41605,
+              23.23795
+            ],
+            [
+              77.41605,
+              23.23705
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "cell_id": "BPL_CELL_0307",
+        "hvi_rank": 2,
+        "zone_name": "MP Nagar Commercial Zone",
+        "current_lst": 47.36,
+        "projected_lst": 46.84,
+        "temp_drop": 0.52,
+        "recommended_trees": 6,
+        "top_species": "Karanj (\u0915\u0930\u0902\u091c), North Indian Rosewood / Sheesham (\u0936\u0940\u0936\u092e)",
+        "annual_co2_kg": 132.0,
+        "annual_stormwater_liters": 90129.4
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "BPL_CELL_0150",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.41905,
+              23.23305
+            ],
+            [
+              77.41995,
+              23.23305
+            ],
+            [
+              77.41995,
+              23.23395
+            ],
+            [
+              77.41905,
+              23.23395
+            ],
+            [
+              77.41905,
+              23.23305
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "cell_id": "BPL_CELL_0150",
+        "hvi_rank": 3,
+        "zone_name": "MP Nagar Commercial Zone",
+        "current_lst": 47.94,
+        "projected_lst": 47.16,
+        "temp_drop": 0.78,
+        "recommended_trees": 9,
+        "top_species": "Karanj (\u0915\u0930\u0902\u091c), North Indian Rosewood / Sheesham (\u0936\u0940\u0936\u092e)",
+        "annual_co2_kg": 198.0,
+        "annual_stormwater_liters": 135193.1
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "BPL_CELL_0470",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.41905,
+              23.24105
+            ],
+            [
+              77.41995,
+              23.24105
+            ],
+            [
+              77.41995,
+              23.24195
+            ],
+            [
+              77.41905,
+              23.24195
+            ],
+            [
+              77.41905,
+              23.24105
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "cell_id": "BPL_CELL_0470",
+        "hvi_rank": 4,
+        "zone_name": "MP Nagar Commercial Zone",
+        "current_lst": 47.05,
+        "projected_lst": 46.53,
+        "temp_drop": 0.52,
+        "recommended_trees": 6,
+        "top_species": "Karanj (\u0915\u0930\u0902\u091c), North Indian Rosewood / Sheesham (\u0936\u0940\u0936\u092e)",
+        "annual_co2_kg": 132.0,
+        "annual_stormwater_liters": 90129.4
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "BPL_CELL_0225",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.41405,
+              23.23505
+            ],
+            [
+              77.41495,
+              23.23505
+            ],
+            [
+              77.41495,
+              23.23595
+            ],
+            [
+              77.41405,
+              23.23595
+            ],
+            [
+              77.41405,
+              23.23505
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "cell_id": "BPL_CELL_0225",
+        "hvi_rank": 5,
+        "zone_name": "MP Nagar Commercial Zone",
+        "current_lst": 46.64,
+        "projected_lst": 46.12,
+        "temp_drop": 0.52,
+        "recommended_trees": 6,
+        "top_species": "Karanj (\u0915\u0930\u0902\u091c), North Indian Rosewood / Sheesham (\u0936\u0940\u0936\u092e)",
+        "annual_co2_kg": 132.0,
+        "annual_stormwater_liters": 90129.4
+      }
+    }
+  ]
+}
